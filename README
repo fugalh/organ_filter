@@ -1,0 +1,3 @@
+organ_filter is a simple MIDI filter for the ALSA sequencer that equalizes the
+velocity of note events, so that, as on an organ, no matter how hard or soft
+you press the keys, you get the same volume.
